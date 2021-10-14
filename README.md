@@ -1,5 +1,5 @@
 # Training
-Application demos for Ford JCAL
+Application demos Springboot, RabbitMQ, Nodejs, AngularTS
 
 ## Software Versions
 
