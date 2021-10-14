@@ -1,4 +1,4 @@
-# Ford-JCAL-Demos
+# Training
 Application demos for Ford JCAL
 
 ## Software Versions
